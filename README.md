@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wellen-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Wellen der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wellen-der-liebe/) |
+| **Get License** | [Request Licensing for Wellen der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wellen-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, Motor warm, diese Nacht gehört nur uns
+> Dein Blick trifft mich wie ein Schuss, keine Worte, keine Kunst
+> Wir cruisen durch die City, Neonlicht auf deiner Haut
+> Du bist der Vibe, dem ich vertrau', für den ich alles bau'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
