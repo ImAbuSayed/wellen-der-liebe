@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wellen-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Wellen der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wellen-der-liebe/) |
+| **Get License** | [Commercial Licensing for Wellen der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wellen-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42ab20842d1301615362fad2fc0475c728019680b2957a9fccfa84d4a104cded` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
